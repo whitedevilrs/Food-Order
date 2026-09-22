@@ -1,0 +1,6 @@
+{
+  "name": "Lucknawi Tandoori Chai",
+  "description": "Official ordering app for Lucknawi Tandoori Chai. Experience the authentic taste of Lucknow with our signature Tandoori Chai, snacks, and Maggie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
